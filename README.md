@@ -1,6 +1,5 @@
-# 🌤 Wetterinformations-App (Pro Version)
+# 🌤 Wetterinformations-App
 
-**Semester:** Wintersemester 2022 – 2023  
 **Technologien:** Python, Requests, Streamlit, OpenWeatherMap API
 
 ## 🔍 Beschreibung
@@ -12,8 +11,7 @@ Diese App ruft aktuelle Wetterdaten über die OpenWeatherMap API ab und zeigt di
 - Windgeschwindigkeit
 - Wetterbeschreibung + Icon
 
-## 📸 Screenshot
-![Demo](assets/icons/example.png)
+
 
 ## 🚀 Starten
 ```bash
